@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "68195c9b16a89ddcbc7534af"
+  },
+  "nombre": "Carlos Vásquez",
+  "usuario": "cvasquez",
+  "telefono": "70707070",
+  "correo": "carlos@gmail.com",
+  "contrasena": "claveSegura123"
+},
+{
+  "_id": {
+    "$oid": "68195c9b16a89ddcbc7534b0"
+  },
+  "nombre": "Manuel Guardado",
+  "usuario": "Mguardado",
+  "telefono": "75343070",
+  "correo": "Manuel@gmail.com",
+  "contrasena": "claveSegura123"
+},
+{
+  "_id": {
+    "$oid": "68195c9b16a89ddcbc7534b1"
+  },
+  "nombre": "Mario Lopez",
+  "usuario": "Mlopez",
+  "telefono": "4557070",
+  "correo": "Mario@gmail.com",
+  "contrasena": "claveSegura123"
+},
+{
+  "_id": {
+    "$oid": "6819638616a7582650544736"
+  },
+  "nombre": "Ana Martinez",
+  "usuario": "Amartinez",
+  "telefono": "4557070",
+  "correo": "Ana@gmail.com",
+  "contrasena": "claveSegura123"
+}]

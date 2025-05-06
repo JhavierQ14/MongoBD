@@ -1,0 +1,1 @@
+db['personas'].find().pretty();
